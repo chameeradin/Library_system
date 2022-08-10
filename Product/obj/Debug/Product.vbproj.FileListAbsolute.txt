@@ -1,0 +1,17 @@
+c:\users\dell\source\repos\Product\Product\bin\Debug\Product.exe.config
+c:\users\dell\source\repos\Product\Product\bin\Debug\Product.exe
+c:\users\dell\source\repos\Product\Product\bin\Debug\Product.pdb
+c:\users\dell\source\repos\Product\Product\bin\Debug\Product.xml
+c:\users\dell\source\repos\Product\Product\obj\Debug\Product.vbprojAssemblyReference.cache
+c:\users\dell\source\repos\Product\Product\obj\Debug\Product.Resources.resources
+c:\users\dell\source\repos\Product\Product\obj\Debug\Product.vbproj.GenerateResource.cache
+c:\users\dell\source\repos\Product\Product\obj\Debug\Product.vbproj.CoreCompileInputs.cache
+c:\users\dell\source\repos\Product\Product\obj\Debug\Product.exe
+c:\users\dell\source\repos\Product\Product\obj\Debug\Product.xml
+c:\users\dell\source\repos\Product\Product\obj\Debug\Product.pdb
+C:\Users\DELL\source\repos\Product\Product\obj\Debug\Product.Form3.resources
+C:\Users\DELL\source\repos\Product\Product\obj\Debug\Product.Form4.resources
+C:\Users\DELL\source\repos\Product\Product\obj\Debug\Product.Form6.resources
+C:\Users\DELL\source\repos\Product\Product\obj\Debug\Product.Form7.resources
+C:\Users\DELL\source\repos\Product\Product\obj\Debug\Product.main.resources
+C:\Users\DELL\source\repos\Product\Product\obj\Debug\Product.Child.resources
